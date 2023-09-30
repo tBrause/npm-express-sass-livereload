@@ -84,6 +84,6 @@
 - useTabs: false
 - singleQuote: true
 
-### Installation und Änderungen mit nodemon und livereload
+### Installation und Workflow
 
-[Watch the video](https://drive.google.com/file/d/1-HynwJ0JPOB3K6Z7YV7rRze5SlvdKHq5/view?usp=sharing)
+[Watch the video (01:30)](https://drive.google.com/file/d/1-HynwJ0JPOB3K6Z7YV7rRze5SlvdKHq5/view?usp=sharing)
