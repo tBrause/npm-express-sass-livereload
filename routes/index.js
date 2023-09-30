@@ -8,7 +8,7 @@ const router = express.Router();
 router.get('/', function (req, res, next) {
   // Render the index page
   res.render('index', {
-    title: 'Express',
+    title: 'Express JS with template engine Pug',
     description:
       'Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.',
   });
