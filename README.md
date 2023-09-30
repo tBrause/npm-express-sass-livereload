@@ -4,6 +4,10 @@
 
 > node v18.17.1
 
+> Framework: express
+
+> Template Engine: Pug
+
 ## Installation
 
 > CMD: Projektordner erstellen und hinein wechseln
@@ -74,3 +78,8 @@
 
 - Prettier
 - ESLint
+
+## Prettier Konfiguration
+
+- useTabs: false
+- singleQuote: true
