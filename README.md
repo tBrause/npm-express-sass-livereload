@@ -1,5 +1,9 @@
 ### Node-Express-Sass-Starter Entwicklungsumgebung
 
+## Installation und Workflow
+
+[Watch the video (01:30)](https://drive.google.com/file/d/1-HynwJ0JPOB3K6Z7YV7rRze5SlvdKHq5/view?usp=sharing)
+
 ### `node` `express` `sass` `pug` `concurrently` `nodemon` `livereload` `prettier`
 
 > node v18.17.1
@@ -21,10 +25,6 @@
     git clone https://github.com/tBrause/npm-express-sass-livereload.git .; git remote remove origin; npm install; npm run dev
 
 > Erfolgreich getestet: 30.09.2023
-
-## Installation und Workflow
-
-[Watch the video (01:30)](https://drive.google.com/file/d/1-HynwJ0JPOB3K6Z7YV7rRze5SlvdKHq5/view?usp=sharing)
 
 ## Struktur und Dateien
 
